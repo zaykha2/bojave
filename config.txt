@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= Y
+game= Yhelp
+stayinchannel=true
+songinstatus=true 
+token=NTI3ODQ2MjEzMTY5NzA5MDc4.DwZrKA.u57U0YYQA1cCDOwVo70ej3XPnRo
+owner=405683225445531648
